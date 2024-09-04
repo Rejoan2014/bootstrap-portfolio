@@ -11853,11 +11853,6 @@ textarea.form-control-lg {
   background-color: #fff;
   display: block;
 }
-@media (min-width: 576px) {
-  .btn-rounded {
-    display: none;
-  }
-}
 @media (max-width: 575.98px) {
   .btn-rounded {
     display: none;
