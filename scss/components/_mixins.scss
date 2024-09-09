@@ -11,7 +11,7 @@
     transform: translate(-50%, -50%);
 }
 
-// TRANSITION PROPERTY 
+// Transition Property 
 @mixin transitionProperty {
     transition-duration: 1s;
     transition-property: all;
